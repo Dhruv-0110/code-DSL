@@ -1,4 +1,4 @@
-# ams-lang : AutomonScript Language Engine 
+# Code-DSL : Domain Specific Language
 This repository houses the compiler, grammar specifications, and the high-performance runtime for the AutomonScript Language.
 
 ## ABOUT 
